@@ -50,8 +50,8 @@
     <distributionManagement>
         <repository>
             <id>removorg</id>
-            <name>Common</name>
-            <url>https://maven.pkg.github.com/removorg/Common/</url>
+            <name>common</name>
+            <url>https://maven.pkg.github.com/removorg/common/</url>
         </repository>
     </distributionManagement>
 
