@@ -49,9 +49,9 @@
 
     <distributionManagement>
         <repository>
-            <id>edenmc</id>
+            <id>removorg</id>
             <name>Common</name>
-            <url>https://maven.pkg.github.com/EdenMCDev/Common/</url>
+            <url>https://maven.pkg.github.com/removorg/Common/</url>
         </repository>
     </distributionManagement>
 
